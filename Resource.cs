@@ -1,8 +1,15 @@
 ﻿using System;
 
-public class Class1
+public class Resource
 {
-	public Class1()
-	{
-	}
+    public int readonly id
+    public int autoink = 1
+    public string name
+    public int price
+    public ResourceTypes type
+
+    public Resource()
+    {
+                
+    }
 }
