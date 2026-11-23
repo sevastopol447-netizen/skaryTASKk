@@ -1,3 +1,13 @@
 <Solution>
-  <Project Path="skaryTaskk/skaryTaskk.csproj" />
+  <Folder Name="/Classes/">
+    <File Path="Concern.cs" />
+  </Folder>
+  <Folder Name="/Classes/Production/">
+    <File Path="CoalMine.cs" />
+    <File Path="IronMine.cs" />
+    <File Path="OilRig.cs" />
+    <File Path="Powerplant.cs" />
+    <File Path="Production.cs" />
+  </Folder>
+  <Project Path="skaryTaskk/skaryTaskk.csproj" Id="0367e24f-45a2-4551-a50e-40fe7236dca4" />
 </Solution>
